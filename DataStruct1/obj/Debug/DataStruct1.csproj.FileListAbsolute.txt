@@ -1,0 +1,6 @@
+/Users/ANDY/GitHub/DataStruct1/DataStruct1/bin/Debug/DataStruct1.exe
+/Users/ANDY/GitHub/DataStruct1/DataStruct1/bin/Debug/DataStruct1.pdb
+/Users/ANDY/GitHub/DataStruct1/DataStruct1/obj/Debug/DataStruct1.csprojResolveAssemblyReference.cache
+/Users/ANDY/GitHub/DataStruct1/DataStruct1/obj/Debug/DataStruct1.csproj.CoreCompileInputs.cache
+/Users/ANDY/GitHub/DataStruct1/DataStruct1/obj/Debug/DataStruct1.exe
+/Users/ANDY/GitHub/DataStruct1/DataStruct1/obj/Debug/DataStruct1.pdb
