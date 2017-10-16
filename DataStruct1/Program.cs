@@ -14,9 +14,12 @@ public static void Main(string[] args)
     aiNums[2] = 47;
     aiNums[3] = 69;
 
+    string sBro = "Andy";
+
     for (int i = 0; i < aiNumsCount; i++)
     {
         Console.WriteLine(aiNums[i]);
+        Console.WriteLine(sBro)
     }
   Console.ReadLine();
 }
